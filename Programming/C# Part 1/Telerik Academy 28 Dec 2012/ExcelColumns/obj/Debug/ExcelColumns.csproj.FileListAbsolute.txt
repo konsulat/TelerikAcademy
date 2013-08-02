@@ -1,6 +1,0 @@
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\ExcelColumns\bin\Debug\ExcelColumns.exe.config
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\ExcelColumns\bin\Debug\ExcelColumns.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\ExcelColumns\bin\Debug\ExcelColumns.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\ExcelColumns\obj\Debug\ExcelColumns.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\ExcelColumns\obj\Debug\ExcelColumns.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\ExcelColumns\obj\Debug\ExcelColumns.csprojResolveAssemblyReference.cache

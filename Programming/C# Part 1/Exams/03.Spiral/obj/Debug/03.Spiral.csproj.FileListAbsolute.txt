@@ -1,6 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Spiral\bin\Debug\03.Spiral.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Spiral\bin\Debug\03.Spiral.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Spiral\bin\Debug\03.Spiral.pdb
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Spiral\obj\Debug\03.Spiral.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Spiral\obj\Debug\03.Spiral.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Spiral\obj\Debug\03.Spiral.pdb

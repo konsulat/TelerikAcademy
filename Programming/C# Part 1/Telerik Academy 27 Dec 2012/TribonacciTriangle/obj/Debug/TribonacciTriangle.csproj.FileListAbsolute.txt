@@ -1,6 +1,0 @@
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\TribonacciTriangle\obj\Debug\TribonacciTriangle.csprojResolveAssemblyReference.cache

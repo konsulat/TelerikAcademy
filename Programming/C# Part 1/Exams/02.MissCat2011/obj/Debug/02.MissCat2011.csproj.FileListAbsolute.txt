@@ -1,6 +1,0 @@
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.MissCat2011\bin\Debug\02.MissCat2011.exe.config
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.MissCat2011\bin\Debug\02.MissCat2011.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.MissCat2011\bin\Debug\02.MissCat2011.pdb
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.MissCat2011\obj\Debug\02.MissCat2011.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.MissCat2011\obj\Debug\02.MissCat2011.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.MissCat2011\obj\Debug\02.MissCat2011.pdb

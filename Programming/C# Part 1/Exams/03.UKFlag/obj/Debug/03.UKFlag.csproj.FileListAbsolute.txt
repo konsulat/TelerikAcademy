@@ -1,6 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.UKFlag\bin\Debug\03.UKFlag.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.UKFlag\bin\Debug\03.UKFlag.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.UKFlag\bin\Debug\03.UKFlag.pdb
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.UKFlag\obj\Debug\03.UKFlag.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.UKFlag\obj\Debug\03.UKFlag.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.UKFlag\obj\Debug\03.UKFlag.pdb

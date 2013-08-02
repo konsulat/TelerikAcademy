@@ -1,6 +1,0 @@
-c:\users\konsulat\documents\visual studio 2012\Projects\Hangman\hangman\bin\Debug\hangman.exe.config
-c:\users\konsulat\documents\visual studio 2012\Projects\Hangman\hangman\bin\Debug\hangman.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Hangman\hangman\bin\Debug\hangman.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
-c:\users\konsulat\documents\visual studio 2012\Projects\Hangman\hangman\obj\Debug\hangman.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Hangman\hangman\obj\Debug\hangman.pdb

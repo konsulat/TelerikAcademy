@@ -1,6 +1,0 @@
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.AngryBits\bin\Debug\04.AngryBits.exe.config
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.AngryBits\bin\Debug\04.AngryBits.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.AngryBits\bin\Debug\04.AngryBits.pdb
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.AngryBits\obj\Debug\04.AngryBits.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.AngryBits\obj\Debug\04.AngryBits.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.AngryBits\obj\Debug\04.AngryBits.pdb

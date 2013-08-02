@@ -1,6 +1,0 @@
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe.config
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.csprojResolveAssemblyReference.cache
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.pdb

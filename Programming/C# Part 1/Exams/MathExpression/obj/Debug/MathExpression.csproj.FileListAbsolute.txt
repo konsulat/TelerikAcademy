@@ -1,2 +1,0 @@
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\MathEquation\bin\Debug\MathEquation.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\MathExpression\bin\Debug\MathEquation.exe.config

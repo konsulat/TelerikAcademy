@@ -1,6 +1,0 @@
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.BitBall\bin\Debug\04.BitBall.exe.config
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.BitBall\bin\Debug\04.BitBall.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.BitBall\bin\Debug\04.BitBall.pdb
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.BitBall\obj\Debug\04.BitBall.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.BitBall\obj\Debug\04.BitBall.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\04.BitBall\obj\Debug\04.BitBall.pdb

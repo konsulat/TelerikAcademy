@@ -1,6 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.SubsetSumsB\bin\Debug\05.SubsetSumsB.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.SubsetSumsB\bin\Debug\05.SubsetSumsB.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.SubsetSumsB\bin\Debug\05.SubsetSumsB.pdb
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.SubsetSumsB\obj\Debug\05.SubsetSumsB.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.SubsetSumsB\obj\Debug\05.SubsetSumsB.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.SubsetSumsB\obj\Debug\05.SubsetSumsB.pdb

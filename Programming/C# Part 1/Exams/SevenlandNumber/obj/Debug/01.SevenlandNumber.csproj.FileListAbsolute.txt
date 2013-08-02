@@ -1,3 +1,0 @@
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\bin\Debug\SevenlandNumber.exe.config
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\obj\Debug\SevenlandNumber.exe
-C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\obj\Debug\SevenlandNumber.pdb

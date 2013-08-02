@@ -1,6 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.TelerikLogo\bin\Debug\03.TelerikLogo.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.TelerikLogo\bin\Debug\03.TelerikLogo.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.TelerikLogo\bin\Debug\03.TelerikLogo.pdb
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.TelerikLogo\obj\Debug\03.TelerikLogo.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.TelerikLogo\obj\Debug\03.TelerikLogo.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.TelerikLogo\obj\Debug\03.TelerikLogo.pdb

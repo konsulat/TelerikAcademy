@@ -1,6 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.OddNumber\bin\Debug\05.OddNumber.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.OddNumber\bin\Debug\05.OddNumber.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.OddNumber\bin\Debug\05.OddNumber.pdb
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.OddNumber\obj\Debug\05.OddNumber.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.OddNumber\obj\Debug\05.OddNumber.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.OddNumber\obj\Debug\05.OddNumber.pdb

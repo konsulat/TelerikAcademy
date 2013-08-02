@@ -1,6 +1,0 @@
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\bin\Debug\SevenlandNumber.exe.config
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\bin\Debug\SevenlandNumber.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\bin\Debug\SevenlandNumber.pdb
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\obj\Debug\SevenlandNumber.csprojResolveAssemblyReference.cache
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\obj\Debug\SevenlandNumber.exe
-c:\users\konsulat\documents\visual studio 2012\Projects\Exams\SevenlandNumber\obj\Debug\SevenlandNumber.pdb

@@ -1,6 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Carpets\bin\Debug\03.Carpets.exe.config
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Carpets\bin\Debug\03.Carpets.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Carpets\bin\Debug\03.Carpets.pdb
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Carpets\obj\Debug\03.Carpets.csprojResolveAssemblyReference.cache
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Carpets\obj\Debug\03.Carpets.exe
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.Carpets\obj\Debug\03.Carpets.pdb
