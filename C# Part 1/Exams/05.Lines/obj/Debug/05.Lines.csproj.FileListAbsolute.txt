@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Lines\bin\Debug\05.Lines.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Lines\bin\Debug\05.Lines.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Lines\bin\Debug\05.Lines.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Lines\obj\Debug\05.Lines.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Lines\obj\Debug\05.Lines.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Lines\obj\Debug\05.Lines.pdb

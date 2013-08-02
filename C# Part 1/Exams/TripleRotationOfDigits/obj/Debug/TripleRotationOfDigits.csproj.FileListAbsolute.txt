@@ -1,0 +1,5 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.pdb

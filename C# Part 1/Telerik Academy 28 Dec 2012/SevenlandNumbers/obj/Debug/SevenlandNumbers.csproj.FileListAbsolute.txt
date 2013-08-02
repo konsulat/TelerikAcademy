@@ -1,0 +1,6 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojResolveAssemblyReference.cache
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 28 Dec 2012\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

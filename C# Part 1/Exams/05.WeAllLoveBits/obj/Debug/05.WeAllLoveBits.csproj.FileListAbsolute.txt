@@ -1,0 +1,5 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.WeAllLoveBits\bin\Debug\05.WeAllLoveBits.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.WeAllLoveBits\obj\Debug\05.WeAllLoveBits.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.WeAllLoveBits\obj\Debug\05.WeAllLoveBits.pdb

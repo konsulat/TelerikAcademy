@@ -1,0 +1,5 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.pdb

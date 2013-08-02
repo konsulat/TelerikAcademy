@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\NextDate\bin\Debug\NextDate.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\NextDate\bin\Debug\NextDate.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\NextDate\bin\Debug\NextDate.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\NextDate\obj\Debug\NextDate.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\NextDate\obj\Debug\NextDate.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\NextDate\obj\Debug\NextDate.pdb

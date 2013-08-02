@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDate", "NextDate\NextDate.csproj", "{3E5217B6-3F16-460A-9D63-BA18D41A9698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciTriangle", "TribonacciTriangle\TribonacciTriangle.csproj", "{B864D155-BE87-4131-899B-55060EE34FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sheets", "Sheets\Sheets.csproj", "{D33C7C60-CA12-46D3-B98D-EF86553AE704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5217B6-3F16-460A-9D63-BA18D41A9698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5217B6-3F16-460A-9D63-BA18D41A9698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5217B6-3F16-460A-9D63-BA18D41A9698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5217B6-3F16-460A-9D63-BA18D41A9698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B864D155-BE87-4131-899B-55060EE34FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B864D155-BE87-4131-899B-55060EE34FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B864D155-BE87-4131-899B-55060EE34FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B864D155-BE87-4131-899B-55060EE34FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33C7C60-CA12-46D3-B98D-EF86553AE704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33C7C60-CA12-46D3-B98D-EF86553AE704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33C7C60-CA12-46D3-B98D-EF86553AE704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33C7C60-CA12-46D3-B98D-EF86553AE704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.FirTree\bin\Debug\03.FirTree.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.FirTree\bin\Debug\03.FirTree.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.FirTree\bin\Debug\03.FirTree.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.FirTree\obj\Debug\03.FirTree.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.FirTree\obj\Debug\03.FirTree.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\03.FirTree\obj\Debug\03.FirTree.pdb

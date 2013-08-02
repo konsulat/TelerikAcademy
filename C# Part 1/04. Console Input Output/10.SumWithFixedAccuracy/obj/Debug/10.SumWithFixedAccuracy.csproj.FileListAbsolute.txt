@@ -1,0 +1,5 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\04. Console Input Output\10.SumWithFixedAccuracy\bin\Debug\10.SumWithFixedAccuracy.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\04. Console Input Output\10.SumWithFixedAccuracy\bin\Debug\10.SumWithFixedAccuracy.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\04. Console Input Output\10.SumWithFixedAccuracy\bin\Debug\10.SumWithFixedAccuracy.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\04. Console Input Output\10.SumWithFixedAccuracy\obj\Debug\10.SumWithFixedAccuracy.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\04. Console Input Output\10.SumWithFixedAccuracy\obj\Debug\10.SumWithFixedAccuracy.pdb

@@ -1,0 +1,10 @@
+﻿using System;
+
+class PrintMyFirstAndLastName
+{
+    static void Main()
+    {
+        Console.WriteLine("My first name is: Pesho"); // it's not my real first name
+        Console.WriteLine("My last name is: Peshev"); // it's not my real last name
+    }
+}

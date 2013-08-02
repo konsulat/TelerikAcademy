@@ -1,0 +1,2 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\06. Loops\14.SpiralMatrix\bin\Debug\14.SpiralMatrix.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\C# Part 1\06. Loops\14.SpiralMatrix\bin\Debug\14.SpiralMatrix.exe.config

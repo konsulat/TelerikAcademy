@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\06. Loops\06.SumOfNumbers\bin\Debug\06.SumOfNumbers.exe.config

@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Pillars\bin\Debug\05.Pillars.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Pillars\bin\Debug\05.Pillars.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Pillars\bin\Debug\05.Pillars.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Pillars\obj\Debug\05.Pillars.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Pillars\obj\Debug\05.Pillars.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Pillars\obj\Debug\05.Pillars.pdb

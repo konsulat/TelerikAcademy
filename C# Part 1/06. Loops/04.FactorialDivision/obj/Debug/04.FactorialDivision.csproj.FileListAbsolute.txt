@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\06. Loops\04.FactorialDivision\bin\Debug\04.FactorialDivision.exe.config

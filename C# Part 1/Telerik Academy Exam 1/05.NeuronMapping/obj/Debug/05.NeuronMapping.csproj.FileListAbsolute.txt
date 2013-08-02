@@ -1,0 +1,6 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\05.NeuronMapping\bin\Debug\05.NeuronMapping.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\05.NeuronMapping\bin\Debug\05.NeuronMapping.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\05.NeuronMapping\bin\Debug\05.NeuronMapping.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\05.NeuronMapping\obj\Debug\05.NeuronMapping.csprojResolveAssemblyReference.cache
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\05.NeuronMapping\obj\Debug\05.NeuronMapping.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\05.NeuronMapping\obj\Debug\05.NeuronMapping.pdb

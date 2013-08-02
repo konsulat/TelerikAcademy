@@ -1,0 +1,6 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\CardWarsBatka\bin\Debug\CardWarsBatka.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\CardWarsBatka\bin\Debug\CardWarsBatka.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\CardWarsBatka\bin\Debug\CardWarsBatka.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\CardWarsBatka\obj\Debug\CardWarsBatka.csprojResolveAssemblyReference.cache
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\CardWarsBatka\obj\Debug\CardWarsBatka.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\CardWarsBatka\obj\Debug\CardWarsBatka.pdb

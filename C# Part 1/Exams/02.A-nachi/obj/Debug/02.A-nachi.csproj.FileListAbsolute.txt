@@ -1,0 +1,6 @@
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.A-nachi\bin\Debug\02.A-nachi.exe.config
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.A-nachi\bin\Debug\02.A-nachi.exe
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.A-nachi\bin\Debug\02.A-nachi.pdb
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.A-nachi\obj\Debug\02.A-nachi.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.A-nachi\obj\Debug\02.A-nachi.exe
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.A-nachi\obj\Debug\02.A-nachi.pdb

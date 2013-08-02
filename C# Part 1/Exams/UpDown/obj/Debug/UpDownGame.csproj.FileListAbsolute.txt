@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\UpDown\bin\Debug\UpDown.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\UpDown\bin\Debug\UpDown.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\UpDown\bin\Debug\UpDown.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\UpDown\obj\Debug\UpDownGame.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\UpDown\obj\Debug\UpDown.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\UpDown\obj\Debug\UpDown.pdb

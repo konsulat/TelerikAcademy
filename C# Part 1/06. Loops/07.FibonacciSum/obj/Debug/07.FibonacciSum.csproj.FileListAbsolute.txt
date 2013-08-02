@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\06. Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe.config

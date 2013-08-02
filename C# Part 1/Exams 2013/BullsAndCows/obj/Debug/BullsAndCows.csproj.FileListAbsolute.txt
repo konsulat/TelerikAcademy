@@ -1,0 +1,6 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\BullsAndCows\bin\Debug\BullsAndCows.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\BullsAndCows\bin\Debug\BullsAndCows.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\BullsAndCows\obj\Debug\BullsAndCows.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Exams\BullsAndCows\obj\Debug\BullsAndCows.pdb

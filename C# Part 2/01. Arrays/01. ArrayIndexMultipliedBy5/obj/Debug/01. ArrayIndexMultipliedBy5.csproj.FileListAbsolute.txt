@@ -1,0 +1,2 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\01. ArrayIndexMultipliedBy5\bin\Debug\_01.ArrayIndexMultipliedBy5.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\C# Part 2\01. Arrays\bin\Debug\_01.ArrayIndexMultipliedBy5.exe.config

@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\09.SubSets\bin\Debug\09.SubSets.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\09.SubSets\bin\Debug\09.SubSets.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\09.SubSets\bin\Debug\09.SubSets.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\09.SubSets\obj\Debug\09.SubSets.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\09.SubSets\obj\Debug\09.SubSets.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\09.SubSets\obj\Debug\09.SubSets.pdb

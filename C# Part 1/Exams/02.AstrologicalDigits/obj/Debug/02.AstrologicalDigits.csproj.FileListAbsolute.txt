@@ -1,0 +1,6 @@
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.AstrologicalDigits\bin\Debug\02.AstrologicalDigits.exe.config
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.AstrologicalDigits\bin\Debug\02.AstrologicalDigits.exe
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.AstrologicalDigits\bin\Debug\02.AstrologicalDigits.pdb
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.AstrologicalDigits\obj\Debug\02.AstrologicalDigits.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.AstrologicalDigits\obj\Debug\02.AstrologicalDigits.exe
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\02.AstrologicalDigits\obj\Debug\02.AstrologicalDigits.pdb

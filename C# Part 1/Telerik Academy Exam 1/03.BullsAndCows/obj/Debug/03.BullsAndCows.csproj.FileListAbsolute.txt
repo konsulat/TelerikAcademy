@@ -1,0 +1,1 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy Exam 1\03.BullsAndCows\bin\Debug\03.BullsAndCows.exe.config

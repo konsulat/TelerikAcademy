@@ -1,0 +1,3 @@
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\CartesianCoordinateSystem\bin\Debug\CartesianCoordinateSystem.exe.config
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.exe
+C:\Users\konsulat\documents\visual studio 2012\Projects\Exams\CartesianCoordinateSystem\obj\Debug\CartesianCoordinateSystem.pdb

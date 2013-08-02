@@ -1,0 +1,5 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 29 Dec 2012\Poker\bin\Debug\Poker.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 29 Dec 2012\Poker\bin\Debug\Poker.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 29 Dec 2012\Poker\bin\Debug\Poker.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 29 Dec 2012\Poker\obj\Debug\Poker.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 29 Dec 2012\Poker\obj\Debug\Poker.pdb

@@ -1,0 +1,6 @@
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\NextDate\bin\Debug\NextDate.exe.config
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\NextDate\bin\Debug\NextDate.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\NextDate\bin\Debug\NextDate.pdb
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\NextDate\obj\Debug\NextDate.csprojResolveAssemblyReference.cache
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\NextDate\obj\Debug\NextDate.exe
+c:\users\konsulat\documents\visual studio 2012\Projects\Telerik Academy 27 Dec 2012\NextDate\obj\Debug\NextDate.pdb

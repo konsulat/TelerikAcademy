@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\03. Operators and Expressions\12.SetBitAtPosition\bin\Debug\12.Bits.exe.config

@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\02. Primitive Data Types and Variables\04.DeclareHexadecimalNumber\bin\Debug\04.DeclareHexadecimalNumber.exe.config

@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\03. Methods\01.SayHelloMethod\bin\Debug\01.SayHelloMethod.exe.config

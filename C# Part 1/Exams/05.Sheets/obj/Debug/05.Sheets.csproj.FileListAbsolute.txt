@@ -1,0 +1,6 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Sheets\bin\Debug\05.Sheets.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Sheets\bin\Debug\05.Sheets.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Sheets\bin\Debug\05.Sheets.pdb
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Sheets\obj\Debug\05.Sheets.csprojResolveAssemblyReference.cache
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Sheets\obj\Debug\05.Sheets.exe
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\Exams\05.Sheets\obj\Debug\05.Sheets.pdb

@@ -1,0 +1,2 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\02. Primitive Data Types and Variables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe.config
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\C# Part 1\02. Primitive Data Types and Variables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe.config

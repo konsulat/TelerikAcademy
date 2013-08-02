@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\05.NameOfDigit\bin\Debug\05.NameOfDigit.exe.config
