@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\06. Loops\08.GreatestCommonDivisor\bin\Debug\08.GreatestCommonDivisor.exe.config

@@ -1,11 +1,16 @@
-﻿using System;
+﻿// 11. Write a program that prints all possible cards from a standard deck of 52 cards (without jokers).
+// The cards should be printed with their English names. Use nested for loops and switch-case.
+
+using System;
 
 class DeckOfCards
 {
     static void Main()
     {
         Console.WriteLine("This program will print all cards from a deck (without jokers)");
-        string color = "";
+
+        string color = string.Empty;
+
         for (int i = 2; i <= 14; i++)
         {
             for (int j = 1; j <= 4; j++)

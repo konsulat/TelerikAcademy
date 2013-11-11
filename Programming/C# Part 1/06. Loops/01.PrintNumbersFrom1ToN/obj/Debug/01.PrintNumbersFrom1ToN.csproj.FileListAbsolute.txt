@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\C# Part 1\06. Loops\01.PrintNumbersFrom1ToN\bin\Debug\01.PrintNumbersFrom1ToN.exe.config

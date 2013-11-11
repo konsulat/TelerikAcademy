@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 05. Write a program that calculates N!*K! / (K-N)! for given N and K (1<N<K).
+
+using System;
 using System.Numerics;
 
 class AnotherFactorialDivision
@@ -6,16 +8,24 @@ class AnotherFactorialDivision
     static void Main()
     {
         int n;
+        bool isInt = false;
+
         Console.Write("Type a positive integer (N) bigger than 1: ");
-        bool isInt = int.TryParse(Console.ReadLine(), out n);
+
+        isInt = int.TryParse(Console.ReadLine(), out n);
+
         if (!isInt || n <= 1)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         int k;
+
         Console.Write("Type another integer (K) bigger than {0}: ", n);
+
         isInt = int.TryParse(Console.ReadLine(), out k);
+
         if (!isInt || k <= n)
         {
             Console.WriteLine("Invalid input!");
@@ -26,11 +36,17 @@ class AnotherFactorialDivision
 
         BigInteger nFactorial = 1;
         BigInteger resulFactorial = 1;
-        for (int i = 0; i < n; i++)
+
+        for (int i = n; i >= 1; i--)
         {
-            nFactorial *= (i + 1);
-            resulFactorial *= (k - i);
+            nFactorial *= i;
         }
+
+        for (int i = k; i >= k - n + 1; i--)
+        {
+            resulFactorial *= i;
+        }
+
         Console.WriteLine("{0}!*{1}!/({1}-{0})! = {2}", n, k, nFactorial*resulFactorial);
     }
 }

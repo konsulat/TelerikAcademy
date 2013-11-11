@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\06. Loops\05.AnotherFactorialDivision\bin\Debug\05.AnotherFactorialDivision.exe.config

@@ -1,12 +1,17 @@
-﻿using System;
+﻿// 01. Write a program that prints all the numbers from 1 to N.
+
+using System;
 
 class PrintNumbersFrom1ToN
 {
     static void Main()
     {
         int n;
+
         Console.Write("Type a positive integer: ");
+
         bool isInt = int.TryParse(Console.ReadLine(), out n);
+
         if (!isInt || n <= 0)
         {
             Console.WriteLine("Invalid input!");
