@@ -1,4 +1,7 @@
-﻿using System;
+﻿// 02. Write a program that shows the sign (+ or -) of the product of three real numbers without
+// calculating it. Use a sequence of if statements.
+
+using System;
 
 class ShowSignOfProduct
 {
@@ -7,23 +10,33 @@ class ShowSignOfProduct
         double firstDouble;
         double secondDouble;
         double thirdDouble;
-        bool isDouble;
+        int counter = 0;
+        bool isDouble = false;
+
         Console.Write("Type first real number: ");
+
         isDouble = double.TryParse(Console.ReadLine(), out firstDouble);
+
         if (!isDouble)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         Console.Write("Type second real number: ");
+
         isDouble = double.TryParse(Console.ReadLine(), out secondDouble);
+
         if (!isDouble)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         Console.Write("Type third real number: ");
+
         isDouble = double.TryParse(Console.ReadLine(), out thirdDouble);
+
         if (!isDouble)
         {
             Console.WriteLine("Invalid input!");
@@ -34,54 +47,31 @@ class ShowSignOfProduct
         {
             Console.WriteLine("The sign of the product of the three real numbers is neutral (the product is 0)");
         }
-        else if (firstDouble > 0)
-        {
-            if (secondDouble > 0 && thirdDouble > 0)
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
-            }
-            else if (secondDouble > 0 ^ thirdDouble > 0)
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is minus (-)");
-            }
-            else
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
-            }
-        }
-        else if (secondDouble > 0)
-        {
-            if (firstDouble > 0 && thirdDouble > 0)
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
-            }
-            else if (firstDouble > 0 ^ thirdDouble > 0)
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is minus (-)");
-            }
-            else
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
-            }
-        }
-        else if (thirdDouble > 0)
-        {
-            if (firstDouble > 0 && secondDouble > 0)
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
-            }
-            else if (firstDouble > 0 ^ secondDouble > 0)
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is minus (-)");
-            }
-            else
-            {
-                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
-            }
-        }
         else
         {
-            Console.WriteLine("The sign of the product of the three real numbers is minus (-)");
-        }
+            if (firstDouble < 0)
+            {
+                counter++;
+            }
+        
+            if (secondDouble < 0)
+            {
+                counter++;
+            }
+
+            if (thirdDouble < 0)
+            {
+                counter++;
+            }
+
+            if ((counter % 2) == 0)
+            {
+                Console.WriteLine("The sign of the product of the three real numbers is plus (+)");
+            }
+            else
+            {
+                Console.WriteLine("The sign of the product of the three real numbers is minus (-)");
+            }
+        }       
     }
 }

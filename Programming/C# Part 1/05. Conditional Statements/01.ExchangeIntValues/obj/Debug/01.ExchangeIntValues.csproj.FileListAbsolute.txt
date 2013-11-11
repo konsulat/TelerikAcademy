@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\01.ExchangeIntValues\bin\Debug\01.ExchangeIntValues.exe.config

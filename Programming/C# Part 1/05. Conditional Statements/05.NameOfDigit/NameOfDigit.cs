@@ -1,4 +1,7 @@
-﻿using System;
+﻿// 05. Write program that asks for a digit and depending on the input shows the name of that digit
+// (in English) using a switch statement.
+
+using System;
 
 class NameOfDigit
 {
@@ -6,12 +9,15 @@ class NameOfDigit
     {
         Console.Write("Enter a digit: ");
         string inputStr = Console.ReadLine();
+
         if (inputStr.Length != 1)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         char charDigit = char.Parse(inputStr);
+
         switch (charDigit)
         {
             case '0': Console.WriteLine("You typed zero"); break;

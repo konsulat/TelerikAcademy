@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 03. Write a program that finds the biggest of three integers using nested if statements.
+
+using System;
 
 class BiggestOfThreeInts
 {
@@ -7,23 +9,32 @@ class BiggestOfThreeInts
         int firstInteger;
         int secondInteger;
         int thirdInteger;
-        bool isInt;
+        bool isInt = false;
+
         Console.Write("Enter first integer number: ");
+
         isInt = int.TryParse(Console.ReadLine(), out firstInteger);
+
         if (!isInt)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         Console.Write("Enter second integer number: ");
+
         isInt = int.TryParse(Console.ReadLine(), out secondInteger);
+
         if (!isInt)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         Console.Write("Enter third integer number: ");
+
         isInt = int.TryParse(Console.ReadLine(), out thirdInteger);
+
         if (!isInt)
         {
             Console.WriteLine("Invalid input!");

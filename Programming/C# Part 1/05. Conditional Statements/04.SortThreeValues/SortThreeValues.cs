@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 04. Sort 3 real values in descending order using nested if statements.
+
+using System;
 
 class SortThreeValues
 {
@@ -7,23 +9,32 @@ class SortThreeValues
         double firstDouble;
         double secondDouble;
         double thirdDouble;
-        bool isDouble;
+        bool isDouble = false;
+
         Console.Write("Type first real number: ");
+
         isDouble = double.TryParse(Console.ReadLine(), out firstDouble);
+
         if (!isDouble)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         Console.Write("Type second real number: ");
+
         isDouble = double.TryParse(Console.ReadLine(), out secondDouble);
+
         if (!isDouble)
         {
             Console.WriteLine("Invalid input!");
             return;
         }
+
         Console.Write("Type third real number: ");
+
         isDouble = double.TryParse(Console.ReadLine(), out thirdDouble);
+
         if (!isDouble)
         {
             Console.WriteLine("Invalid input!");

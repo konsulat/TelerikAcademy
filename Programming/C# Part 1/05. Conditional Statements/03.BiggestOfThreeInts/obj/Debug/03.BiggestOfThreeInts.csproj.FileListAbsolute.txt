@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\03.BiggestOfThreeInts\bin\Debug\03.BiggestOfThreeInts.exe.config

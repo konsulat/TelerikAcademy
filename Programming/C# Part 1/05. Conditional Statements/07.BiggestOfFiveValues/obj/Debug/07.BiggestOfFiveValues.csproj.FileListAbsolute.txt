@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\05. Conditional Statements\07.BiggestOfFiveValues\bin\Debug\07.BiggestOfFiveValues.exe.config
