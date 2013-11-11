@@ -1,13 +1,17 @@
-﻿using System;
+﻿// 01. Write an expression that checks if given integer is odd or even.
+
+using System;
 
 class OddOrEvenInt
 {
     static void Main()
     {
         int number;
-        bool result;
+
         Console.Write("Enter an integer number: ");
-        result = int.TryParse(Console.ReadLine(), out number); // Checks for valid input
+
+        bool result = int.TryParse(Console.ReadLine(), out number); // Checks for valid input
+
         if (result)
         {
             if (number % 2 == 0)

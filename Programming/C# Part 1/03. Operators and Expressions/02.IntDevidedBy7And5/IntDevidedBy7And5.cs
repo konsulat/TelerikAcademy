@@ -1,13 +1,18 @@
-﻿using System;
+﻿// 02. Write a boolean expression that checks for given integer if it can be divided
+// (without remainder) by 7 and 5 in the same time.
+
+using System;
 
 class IntDevidedBy7And5
 {
     static void Main()
     {
         int number;
-        bool result;
+        
         Console.Write("Enter an integer number: ");
-        result = int.TryParse(Console.ReadLine(), out number); // Checks for valid input
+
+        bool result = int.TryParse(Console.ReadLine(), out number); // Checks for valid input
+
         if (result)
         {
             if (number % 7 == 0 && number % 5 == 0)

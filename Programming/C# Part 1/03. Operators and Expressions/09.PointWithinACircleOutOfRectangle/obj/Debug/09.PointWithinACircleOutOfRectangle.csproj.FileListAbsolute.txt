@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\03. Operators and Expressions\09.PointWithinACircleOutOfRectangle\bin\Debug\09.PointWithinACircleOutOfRectangle.exe.config

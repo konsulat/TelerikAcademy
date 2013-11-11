@@ -1,20 +1,28 @@
-﻿using System;
+﻿// 13. Write a program that exchanges bits 3, 4 and 5 with bits 24, 25 and 26 of given 32-bit
+// unsigned integer.
+
+using System;
 
 class ExchangeSeveralBits
 {
     static void Main()
     {
         uint number;
-        bool result;
+        bool result = false;
+
         Console.Write("Enter an unsigned integer number: ");
+
         result = uint.TryParse(Console.ReadLine(), out number); // Checks for valid input
+
         if (!result)
         {
             Console.WriteLine("Wrong unsigned integer!");
             return; // Exits if not valid unsigned integer
         }
+
         Console.WriteLine("Original number:");
         Console.WriteLine(Convert.ToString(number, 2).PadLeft(32, '0'));
+
         int mask = 1 << 3;
         byte thirdBit = (byte)((number & mask) >> 3);
         mask = 1 << 4;

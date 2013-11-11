@@ -1,4 +1,6 @@
-﻿using System;
+﻿// 06. Write an expression that checks if given point (x,  y) is within a circle K(O, 5).
+
+using System;
 
 class PointWithinACircle
 {
@@ -6,29 +8,32 @@ class PointWithinACircle
     {
         double xCoordinate;
         double yCoordinate;
-        bool result;
+        double radius = 5.0;
+        bool result = false;
+
         Console.Write("Enter x coordinate of the point: ");
+
         result = double.TryParse(Console.ReadLine(), out xCoordinate); // Checks for valid input
+
         if (!result)
         {
             Console.WriteLine("Wrong x coordinate!");
             return; // Exits if not valid x coordinate
         }
+
         Console.Write("Enter y coordinate of the point: ");
+
         result = double.TryParse(Console.ReadLine(), out yCoordinate); // Checks for valid input
+
         if (!result)
         {
             Console.WriteLine("Wrong y coordinate!");
             return; // Exits if not valid y coordinate
         }
-        bool inTheCircle = (xCoordinate * xCoordinate) + (yCoordinate * yCoordinate) <= (5.0 * 5.0);
-        if (inTheCircle)
-        {
-            Console.WriteLine("Point with coordinates x: {0} and y: {1} is within the circle K(0,5)", xCoordinate, yCoordinate);
-        }
-        else
-	    {
-            Console.WriteLine("Point with coordinates x: {0} and y: {1} is out of the circle K(0,5)", xCoordinate, yCoordinate);
-	    }
+
+        bool inTheCircle = (xCoordinate * xCoordinate) + (yCoordinate * yCoordinate) <= (radius * radius);
+
+        Console.WriteLine("Is point with coordinates ({0}, {1}) within the circle K(0,5)? -> {2}",
+            xCoordinate, yCoordinate, inTheCircle);
     }
 }
