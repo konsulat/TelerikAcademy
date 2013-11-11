@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\02. Primitive Data Types and Variables\14.BankAccount\bin\Debug\14.BankAccount.exe.config

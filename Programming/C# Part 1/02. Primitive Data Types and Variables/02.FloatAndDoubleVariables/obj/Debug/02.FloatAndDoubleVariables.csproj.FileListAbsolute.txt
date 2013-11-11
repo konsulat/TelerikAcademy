@@ -1,0 +1,1 @@
+C:\Users\konsulat\Documents\Visual Studio 2012\Projects\C# Part 1\02. Primitive Data Types and Variables\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.exe.config
