@@ -1,3 +1,5 @@
+// 11. Describe the difference between C# and .NET Framework.
+
 C# is a programming language, .NET is a term that tends to cover both the .NET Framework (an application framework library)
 and the Common Language Runtime (CLR) which is the runtime in which .NET assemblies are run. Any language which can run on the CLR
 can also use the .NET libraries (Visual Basic, F#, J#). Microsoft's implementation of C# is heavily integrated with the .NET Framework so it is understandable,
