@@ -1,1 +1,0 @@
-C:\Users\konsulat\Documents\Visual Studio 2012\Projects\04. Console Input Output\07.SumNNumbers\bin\Debug\07.SumNNumbers.exe.config

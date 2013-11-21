@@ -1,4 +1,7 @@
-﻿using System;
+﻿// 04. Write a program that reads two positive integer numbers and prints how many numbers p exist
+// between them such that the reminder of the division by 5 is 0 (inclusive). Example: p(17,25) = 2.
+
+using System;
 
 class IntDividedBy5
 {
@@ -6,24 +9,31 @@ class IntDividedBy5
     {
         int firstInt;
         int secondInt;
-        bool isInt;
+        bool isInt = false;
+
         Console.Write("Enter first integer: ");
-        isInt = int.TryParse(Console.ReadLine(), out firstInt);
-        if (!isInt)
+
+        isInt = int.TryParse(Console.ReadLine(), out firstInt); // Checks for valid input
+
+        if (!isInt || firstInt <= 0)
         {
             Console.WriteLine("Invalid intger!");
-            return;
-        }
-        Console.Write("Enter second integer: ");
-        isInt = int.TryParse(Console.ReadLine(), out secondInt);
-        if (!isInt)
-        {
-            Console.WriteLine("Invalid intger!");
-            return;
+            return; // Exits if not valid integer
         }
 
-        int tempInt;
-        if (firstInt > secondInt)
+        Console.Write("Enter second integer: ");
+
+        isInt = int.TryParse(Console.ReadLine(), out secondInt); // Checks for valid input
+
+        if (!isInt || secondInt <= 0)
+        {
+            Console.WriteLine("Invalid intger!");
+            return; // Exits if not valid integer
+        }
+
+        int tempInt = 0;
+
+        if (firstInt > secondInt) // Swap int if the first is bigger than second
         {
             tempInt = firstInt;
             firstInt = secondInt;
@@ -31,6 +41,7 @@ class IntDividedBy5
         }
 
         int counter = 0;
+
         for (int i = firstInt; i <= secondInt; i++)
         {
             if (i % 5 == 0)
